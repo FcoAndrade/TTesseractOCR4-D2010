@@ -1,3 +1,7 @@
+# TTesseractOCR4-D2010
+Fork from https://github.com/r1me/TTesseractOCR4 to support Delphi 2010
+
+
 # TTesseractOCR4
 [![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=SSCM9JJLXA8UC)
 
